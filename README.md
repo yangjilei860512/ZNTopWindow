@@ -5,6 +5,7 @@
 
 
 import UIKit
+
 var topWindow: ZNTopWindow?
 class ZNTopWindow: UIWindow {
     
